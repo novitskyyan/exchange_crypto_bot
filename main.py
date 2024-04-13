@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 
 URL = "https://rest.coinapi.io/v1/exchangerate/"
 API_KEY = "B5E79824-2866-4D9F-9BF5-B04D73EC0A3B"
-TOKEN = "6207705247:AAEa9PE9ztQ51bvuZPF2H6Jk4KmiNP4A9TU"
+TOKEN = ...
 db = Database("users.db")
 
 bot = Bot(token=TOKEN)
